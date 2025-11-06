@@ -13,19 +13,19 @@ This repository contains selected projects demonstrating my end-to-end data scie
 - Built a neural network model to predict addiction levels among teens.
 - Achieved **R² = 0.95 | MAE = 0.20**.
 - Insights could guide wellness initiatives.
-[🔗 View Project](./Teen-Smartphone-Addiction-Analysis)
+[🔗 View Project](https://github.com/vishal-banshiwal/IITR-Capstone-Project)
 
 ### 🛍 Customer Segmentation using K-Means
 - Clustered mall customers into 4 groups.
 - **Silhouette Score = 0.55.**
 - Segments can help optimize marketing focus.
-[🔗 View Project](./Customer-Segmentation-KMeans)
+[🔗 View Project](https://github.com/vishal-banshiwal/Customer-Segmentation-KMeans)
 
 ### ⚡ Hourly Energy Consumption Forecasting
 - XGBoost model for demand prediction.
 - **RMSE = 3740.77 | MAPE ≈ 8.9%.**
 - Forecasts can support energy planning.
-[🔗 View Project](./Energy-Consumption-Forecasting-XGBoost)
+[🔗 View Project](https://github.com/vishal-banshiwal/Energy-Consumption-Forecasting-XGBoost)
 
 ### 💬 Sentiment Analysis on Airline Tweets
 - Processed 14k tweets using TF-IDF + Logistic Regression.
