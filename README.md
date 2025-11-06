@@ -31,7 +31,7 @@ This repository contains selected projects demonstrating my end-to-end data scie
 - Processed 14k tweets using TF-IDF + Logistic Regression.
 - Achieved **80% accuracy | F1 = 0.78**.
 - Insights could identify satisfaction drivers.
-[🔗 View Project](./Sentiment-Analysis-Airline-Tweets)
+[🔗 View Project](../Sentiment-Analysis-Airline-Tweets)
 
 ---
 
